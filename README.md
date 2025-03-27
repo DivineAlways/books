@@ -287,10 +287,4 @@ Use this space to explore powerful ideas, ancient wisdom, and modern insights th
 
 ---
 
-## 🌐 View as a Webpage
-
-Prefer a visual view? 👉 [Click here to open the full styled version](spiritual_book_summaries.html)
-
----
-
 🌀 *This library is always evolving — as I grow, so will this list.* Stay curious, stay elevated. ✨
